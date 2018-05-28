@@ -1,0 +1,148 @@
+<start>
+<five> - <seven> - <five>
+
+<ones>
+the
+a(n)
+this
+that
+at
+
+<onevb>
+is
+are
+love
+hug
+hurt
+have
+fight
+kill
+make
+die
+dig
+grab
+dug
+sleep
+kiss
+
+<onewd>
+run
+deer
+gun
+you
+king
+gum
+god
+czar
+bear
+cat
+dog
+game
+grape
+germ
+fruit
+face
+beer
+
+<onedes>
+fun
+great
+bad
+lame
+quick
+good
+true
+far
+huge
+rich
+
+<twos>
+between
+because
+around
+today
+
+<twowd>
+pencil
+paper
+people
+person
+
+<twodes>
+holy
+evil
+pretty
+
+<twovb>
+reading
+feeling
+falling
+
+<three>
+<two> <one>
+<one> <two>
+<twos> <onewd>
+<ones> <twowd>
+<ones> <onedes> <onewd>
+<threes>
+<threevb>
+<threedes>
+<threewd>
+
+<threes>
+however
+whatever
+whoever
+
+<threevb>
+funkafy
+understands
+orginize
+
+<threedes>
+horrible
+wonderful
+
+<threewd>
+gorillas
+capital
+
+<four>
+<ones> <twodes> <onewd>
+<ones> <onedes> <onewd> <onevb>
+<twos> <onedes> <onewd>
+<twos> <twowd>
+<ones> <threewd>
+<ones> <onedes> <twowd>
+
+<five>
+<ones> <twodes> <twowd>
+<ones> <threedes> <onewd>
+<ones> <onedes> <threewd>
+<ones> <twodes> <onewd> <onevb>
+<twowd> <threevb>
+<twos> <twodes> <onewd>
+<twos> <threewd>
+<twos> <onedes> <twowd>
+<threes> <twowd>
+<threes> <onedes> <onewd>
+
+<six>
+<twos> <twodes> <twowd>
+<ones> <onedes> <twowd> <twovb>
+<ones> <onedes> <onewd> <threevb>
+<threes> <threewd>
+<threes> <twodes> <onewd>
+<threes> <onedes> <twowd>
+
+<seven>
+<ones> <onedes> <onewd> <onevb> <ones> <onedes> <onewd>
+<ones> <twodes> <onewd> <twovb> <onewd>
+<ones> <twodes> <threewd> <onevb>
+<ones> <onedes> <onewd> <threevb> <onewd>
+<twos> <twodes> <twowd> <onevb>
+<twos> <twodes> <onewd> <twovb>
+<twos> <threedes> <twowd>
+<threes> <threedes> <onewd>
+<threes> <twodes> <twowd>
+<threes> <twodes> <onewd> <onevb>
