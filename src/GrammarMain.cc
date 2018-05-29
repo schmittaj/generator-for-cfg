@@ -52,11 +52,17 @@ int main(int argc, char** argv)
     else
     {
       DList<Symbol> temp = gram.doProduction(pushDownAtomata.top());
-      pushDownAtomata.pop();
+      pushDownAtomata.pop();  
+      Stack<Symbol> reverse;
       while(!temp.isEmpty())
       {
-		pushDownAtomata.push(temp.getAt(0));
+	reverse.push(temp.getAt(0));
         temp.removeHead();
+      }
+      while(!reverse.isEmpty())  
+      {
+	pushDownAtomata.push(reverse.top());
+	reverse.pop();
       }
     }
   }
